@@ -51,7 +51,7 @@ $(document).ready(function () {
     $('.a-fuB')
         .addClass('a-hide')
         .viewportChecker({
-            classToAdd: 'a-show animated tada',
+            classToAdd: 'a-show animated fadeInUpBig',
             classToRemove: 'a-hide',
             offset: 200,
             callbackFunction: function (elem, action) {

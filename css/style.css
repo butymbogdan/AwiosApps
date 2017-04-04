@@ -517,3 +517,9 @@ textarea.form-control {
   font-size: 15px;
   margin: 50px auto 0 auto;
 }
+.a-show{
+  opacity: 1;
+}
+.a-hide{
+  opacity: 0;
+}

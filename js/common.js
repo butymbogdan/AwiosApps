@@ -47,5 +47,16 @@ $(document).ready(function () {
 
             }
         });
+
+    $('.a-fuB')
+        .addClass('a-hide')
+        .viewportChecker({
+            classToAdd: 'a-show animated tada',
+            classToRemove: 'a-hide',
+            offset: 200,
+            callbackFunction: function (elem, action) {
+
+            }
+        });
 });
 

@@ -74,7 +74,7 @@ body {
   color: #48afdb;
   background-color: transparent;
 }
-.carousel-inner > .item {
+.header-two .carousel-inner > .item {
   height: 550px;
 }
 .carousel-inner > .item > img {

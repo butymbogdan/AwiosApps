@@ -44,7 +44,7 @@ li {
 body {
   background: #fff;
   color: #353535;
-  font-family: 'Lato',sans-serif;
+  font-family: 'Lato-Regular',sans-serif;
   font-size: 18px;
 }
 .top-menu {
@@ -74,10 +74,19 @@ body {
   color: #48afdb;
   background-color: transparent;
 }
+.carousel-inner > .item {
+  height: 550px;
+}
+.carousel-inner > .item > img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
 .header-two {
-  background: url("../img/header-two-bg.png") no-repeat bottom;
   margin-bottom: 200px;
   height: 550px;
+  position: relative;
 }
 .header-three {
   background: url("../img/header-three-bg.png") no-repeat;
@@ -223,6 +232,7 @@ p.text-center{
   width: 260px;
   min-height: 335px;
   position: relative;
+  margin-right: 14px;
 }
 .price-box h3 {
   background: url("../img/bg-price.png") no-repeat;
@@ -292,8 +302,8 @@ p.text-center{
 .item-round {
   background: url("../img/rong-bg.png") no-repeat;
   border-radius: 50%;
-  width: 260px;
-  height: 260px;
+  width: 274px;
+  height: 274px;
   position: relative;
 }
 .wrapper-round {

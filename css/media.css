@@ -42,6 +42,18 @@
     .header-four button {
         margin: 20px auto;
     }
+    .header-two {
+        height: 370px;
+    }
+    .carousel-inner > .item {
+        height: 370px;
+    }
+}
+@media (max-width: 435px) {
+    .text-header h1 {
+        margin-top: 25px;
+        font-size: 30px;
+    }
 }
 @media (min-width: 768px) {
     .navbar-nav>li>a {
@@ -56,6 +68,7 @@
         display: block;
         position: absolute;
         right: 4%;
+        bottom: -80px;
         width: 421px;
         height: 267px;
     }
@@ -65,7 +78,7 @@
         height: 868px;
     }
 }
-@media (min-width: 567px) {
+@media (min-width: 590px) {
     .list-price-one {
         float: left;
     }
@@ -126,6 +139,9 @@
     }
     .header-four {
         background: url("../img/header-four-min.png") no-repeat bottom right, url("../img/header-four.png") no-repeat center;
+    }
+    .demo-sect {
+        margin-top: 60px;
     }
 }
 @media (max-width: 1200px) {

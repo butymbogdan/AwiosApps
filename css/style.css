@@ -59,12 +59,13 @@ body {
   z-index: 100;
 }
 .navbar-toggle {
-  margin-top: 30px;
+  margin-top: 35px;
 }
 .navbar-brand {
   float: left;
   height: 100%;
   margin-top: 6px;
+  padding-right: 0;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
   color: #48afdb;
@@ -145,7 +146,6 @@ body {
 }
 p.text-center{
   padding: 0;
-  font-size: 18px;
 }
 .bottom-sect {
   background-color: #e8ecef;
@@ -170,7 +170,6 @@ p.text-center{
 }
 .tab-sect {
   background: #f0f0f0;
-  margin-top: -20px;
   padding-bottom: 40px;
 }
 .tab-sect .title-sect {
@@ -190,7 +189,6 @@ p.text-center{
   border: none;
   margin: 0;
   height: 192px;
-  line-height: 192px;
   padding: 0;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
@@ -229,9 +227,11 @@ p.text-center{
   text-align: center;
   margin-top: 60px;
 }
+.statistics-sect {
+  margin-bottom: 50px;
+}
 .list-price li {
   display: inline-block;
-  margin-bottom: 50px;
 }
 .price-box {
   background: #fff;
@@ -247,7 +247,7 @@ p.text-center{
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-  margin: 0 0 38px 0;
+  margin-bottom: 20px;
   padding-top: 30px;
 }
 .price-box span {
@@ -268,9 +268,6 @@ p.text-center{
 .demo-sect .title-sect {
   text-align: right;
 }
-.demo-sect h3 {
-  margin-top: -30px;
-}
 .btn-wrap {
   float: right;
   margin-top: 80px;
@@ -287,6 +284,9 @@ p.text-center{
   left: -75%;
   top: -90%;
 }
+.popular-functionality .carousel-inner {
+  overflow: visible;
+}
 .advantages-sect {
   background-color: #f0f0f0;
 }
@@ -294,19 +294,11 @@ p.text-center{
   margin-bottom: 90px;
   overflow: hidden;
   position: relative;
-  min-height: 128px;
-}
-.item-box-adv img {
-  float: left;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
-.adv-text {
-  padding-left: 145px;
+  min-height: 166px;
 }
 .item-round {
   background: url("../img/rong-bg.png") no-repeat;
+  background-size: 100% 100%;
   border-radius: 50%;
   width: 274px;
   height: 274px;
@@ -428,7 +420,7 @@ p.text-center{
   margin: 10px 0;
 }
 .carousel-indicators {
-  bottom: -90px;
+  bottom: -95px;
 }
 .carousel-indicators li {
   width: 15px;

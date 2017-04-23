@@ -1,0 +1,462 @@
+<?php
+/*
+Template Name: Site Page
+*/
+get_header('aw');
+?>
+
+<section class="top-menu">
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img src="/schneider-digital/wp-content/themes/codeus/bb/img/logo.png" alt="logo"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">ГЛАВНАЯ</a></li>
+                    <li class="active"><a href="#">УСЛУГИ</a></li>
+                    <li><a href="#">О НАС</a></li>
+                    <li><a href="#">ПОРТФОЛИО</a></li>
+                    <li><a href="#">БЛОГ</a></li>
+                    <li><a href="#">КОНТАКТЫ</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</section>
+<section class="header-two">
+    <div id="myCarouse5" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="/schneider-digital/wp-content/themes/codeus/bb/img/slider2.png" alt="img">
+                <div class="container">
+                    <div class="text-header text-slider">
+                        <h1>ЗАКАЖИТЕ СОЗДАНИЕ<br>
+                            ИНТЕРНЕТ-МАГАЗИНА
+                        </h1>
+                        <h3>
+                            Наша команда занимается разработкой<br>
+                            сайтов европейского типа.
+                        </h3>
+                        <button type="submit" class="btn btn-primary">отправить</button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="img/slider.png" alt="img">
+                <div class="container">
+                    <div class="text-header text-slider">
+                        <h1>ЗАКАЖИТЕ СОЗДАНИЕ<br>
+                            ИНТЕРНЕТ-МАГАЗИНА
+                        </h1>
+                        <h3>
+                            Наша команда занимается разработкой<br>
+                            сайтов европейского типа.
+                        </h3>
+                        <button type="submit" class="btn btn-primary">отправить</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="sect-one">
+    <div class="container">
+        <p class="text-center col-sm-8 col-sm-offset-2">
+            Мы гарантируем качество, высокую технологическую функциональность
+            и WOW-эффект для ваших посетителей.Наши сайты решают такие бизнес-задачи, как:
+        </p>
+        <div class="row">
+            <div class="col-md-offset-1 col-md-3 item-box a-fl">
+                <img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-8.png" alt="">
+                <p>Cоздание имиджа
+                    компании</p>
+            </div>
+            <div class="col-md-4 item-box a-fuB">
+                <img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-9.png" alt="">
+                <p>Увеличение клиентской
+                    базы</p>
+            </div>
+            <div class="col-md-3 item-box a-fr">
+                <img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-10.png" alt="">
+                <p>Рост количества
+                    продаж</p>
+            </div>
+        </div>
+        <div class="row">
+            <p class="text-center col-sm-8 col-sm-offset-2">
+                Интуитивно понятный интерфейс и приятный дизайн придется по душе вашим пользователям,
+                а удобный функционал позволит решать их задачи максимально быстро и с комфортом.
+            </p>
+        </div>
+    </div>
+</section>
+<section class="about-us-sect">
+    <div class="container">
+        <h2 class="title-sect">
+            Сайт должны оценить посетители,<br>
+            а не ваш лучший друг!
+        </h2>
+        <div class="text col-md-6">
+            <p>Эксперты нашей команды работают в области web-разработок
+                уже более 4 лет. Более 300 успешно завершенных проектов
+                удалось провести за это время. Исходя из своего опыта, мы можем
+                быть уверены в том, что действительно работает, а что –
+                малоэффективно. Поэтому, заказывая разработку сайта в нашей
+                компании, вы делаете правильный выбор.</p>
+            <p>
+                Мы относимся к своим клиентам, как к партнерам. Мы готовы
+                развивать бизнес наших заказчиков, как свой собственный, ведь
+                именно успех клиента приносит успех нашей компании. Чем лучше
+                мы выполняем свою работу сегодня, тем лучше о нас говорят
+                завтра, а мы дорожим завтрашним днем.
+            </p>
+        </div>
+    </div>
+</section>
+<section class="sect-two">
+    <div class="container">
+        <h2 class="title-sect">
+            Как мы достигаем результата?
+        </h2>
+        <p class="text-center col-sm-8 col-sm-offset-2">
+            Разрабатывая интернет-магазин с нуля, мы проводим серьезный комплекс работ, который позволяет
+            достичь максимальных результатов. Благодаря высокому уровню подготовки нашей команды,
+            все задачи решаются с максимальной ответственностью и оперативностью.
+        </p>
+        <div class="row">
+            <div class="col-md-offset-2 col-md-3 item-box a-zi">
+                <div class="img-box"><img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-4.png" alt=""></div>
+                <h3>Аналитика</h3>
+                <p>Проводим исследования ниши рынка,
+                    собираем данные о конкурентах,
+                    анализируем перспективы бизнеса.</p>
+            </div>
+            <div class="col-md-3 col-md-offset-2 item-box a-zi">
+                <div class="img-box"><img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-5.png" alt=""></div>
+                <h3>Визуализация</h3>
+                <p>Разрабатываем уникальный дизайн,
+                    который выставит ваш сайт в
+                    выгодном свете.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-2 col-md-3 item-box a-zi">
+                <div class="img-box"><img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-6.png" alt=""></div>
+                <h3>Техническая часть</h3>
+                <p>Внедряем самые передовые разработки.
+                    Готовый интернет-магазин будет
+                    функционировать с максимальной
+                    скоростью и корректностью.</p>
+            </div>
+            <div class="col-md-3 col-md-offset-2 item-box a-zi">
+                <div class="img-box"><img src="/schneider-digital/wp-content/themes/codeus/bb/img/icon-7.png" alt=""></div>
+                <h3>Тестирование</h3>
+                <p>Проводим подробный анализ и тестирование
+                    сайта перед запуском. На этом этапе
+                    находятся и решаются любые ошибки и
+                    возможные риски.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="popular-functionality">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-6">
+                <h2 class="title-sect-left">Популярный функционал интернет-магазина</h2>
+                <div id="myCarouse4" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Проектирование и дизайн</li>
+                                        <li>CMS-система</li>
+                                        <li>Блог і новости</li>
+                                        <li>Карта сайта</li>
+                                        <li>Статистика сайта</li>
+                                        <li>Видео проигрователь на сайте</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Редактор сайтов</li>
+                                        <li>Поиск на сайте</li>
+                                        <li>Кнопки соцыальних ситей</li>
+                                        <li>Кнопки бистрого доступа</li>
+                                        <li>Контактная форма</li>
+                                        <li>Sitemap - Карта сайта</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Проектирование и дизайн</li>
+                                        <li>CMS-система</li>
+                                        <li>Блог і новости</li>
+                                        <li>Карта сайта</li>
+                                        <li>Статистика сайта</li>
+                                        <li>Видео проигрователь на сайте</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Редактор сайтов</li>
+                                        <li>Поиск на сайте</li>
+                                        <li>Кнопки соцыальних ситей</li>
+                                        <li>Кнопки бистрого доступа</li>
+                                        <li>Контактная форма</li>
+                                        <li>Sitemap - Карта сайта</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Проектирование и дизайн</li>
+                                        <li>CMS-система</li>
+                                        <li>Блог і новости</li>
+                                        <li>Карта сайта</li>
+                                        <li>Статистика сайта</li>
+                                        <li>Видео проигрователь на сайте</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list">
+                                        <li>Редактор сайтов</li>
+                                        <li>Поиск на сайте</li>
+                                        <li>Кнопки соцыальних ситей</li>
+                                        <li>Кнопки бистрого доступа</li>
+                                        <li>Контактная форма</li>
+                                        <li>Sitemap - Карта сайта</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarouse4" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarouse4" data-slide-to="1" class=""></li>
+                        <li data-target="#myCarouse4" data-slide-to="2" class=""></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="sect-three">
+    <div class="container">
+        <h2 class="title-sect">
+            ПОРТФОЛИО
+        </h2>
+<!---->
+<!--        <div id="center" class="fullwidth">-->
+<!--            <div id="content">-->
+<!--                <div class="inner">-->
+                    <?php echo do_shortcode('[portfolio items_per_page=3 thumb_size=small]'); ?>
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+        <!--        <div id="myCarousel" class="carousel slide" data-ride="carousel">-->
+        <!--            <div class="carousel-inner" role="listbox">-->
+        <!--                <div class="item active">-->
+        <!--                    <div class="item-slide col-sm-offset-2 col-sm-4">-->
+        <!--                        <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-test.png" alt="">-->
+        <!--                        <div class="bottom-slide">-->
+        <!--                            <h3>GSM (МАГАЗИН)</h3>-->
+        <!--                            <div class="share"></div>-->
+        <!--                        </div>-->
+        <!--                    </div>-->
+        <!--                    <div class="item-slide col-sm-4">-->
+        <!--                        <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-test.png" alt="">-->
+        <!--                        <div class="bottom-slide">-->
+        <!--                            <h3>МЕЛОЧИ ОПТОМ</h3>-->
+        <!--                            <div class="share"></div>-->
+        <!--                        </div>-->
+        <!--                    </div>-->
+        <!--                </div>-->
+        <!--                <div class="item">-->
+        <!--                    <div class="item-slide col-sm-offset-2 col-sm-4">-->
+        <!--                        <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-test.png" alt="">-->
+        <!--                        <div class="bottom-slide">-->
+        <!--                            <h3>GSM (МАГАЗИН)</h3>-->
+        <!--                            <div class="share"></div>-->
+        <!--                        </div>-->
+        <!--                    </div>-->
+        <!--                    <div class="item-slide col-sm-4">-->
+        <!--                        <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-test.png" alt="">-->
+        <!--                        <div class="bottom-slide">-->
+        <!--                            <h3>МЕЛОЧИ ОПТОМ</h3>-->
+        <!--                            <div class="share"></div>-->
+        <!--                        </div>-->
+        <!--                    </div>-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <a class="carousel-control-left" href="#myCarousel" role="button" data-slide="prev">-->
+        <!--                <-->
+        <!--            </a>-->
+        <!--            <a class="carousel-control-right" href="#myCarousel" role="button" data-slide="next">-->
+        <!--                >-->
+        <!--            </a>-->
+        <!--        </div>-->
+        <button type="submit" class="btn btn-primary  a-zi">СМОТРЕТЬ</button>
+    </div>
+</section>
+<section class="sect-four">
+    <div class="container">
+        <h2 class="title-sect">
+            НАШЫ КЛИЕНТИ
+        </h2>
+
+        <?php echo do_shortcode('[clients]'); ?>
+
+
+        <!--        <div id="myCarouse2" class="carousel slide" data-ride="carousel">-->
+        <!--            <div class="carousel-inner" role="listbox">-->
+        <!--                <div class="item active">-->
+        <!--                    <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-partners.png" alt="">-->
+        <!--                </div>-->
+        <!--                <div class="item">-->
+        <!--                    <img src="/schneider-digital/wp-content/themes/codeus/bb/img/img-partners.png" alt="">-->
+        <!--                </div>-->
+        <!--            </div>-->
+        <!--            <a class="carousel-control-left" href="#myCarouse2" role="button" data-slide="prev">-->
+        <!--                <-->
+        <!--            </a>-->
+        <!--            <a class="carousel-control-right" href="#myCarouse2" role="button" data-slide="next">-->
+        <!--                >-->
+        <!--            </a>-->
+        <!--        </div>-->
+    </div>
+</section>
+<section class="sect-question">
+    <div class="container">
+        <h2 class="title-sect">
+            Популярные вопросы
+        </h2>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1 a-fl">
+                <div>
+                    <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                    <div class="spoiler_body">
+                        Опытные маркетологи анализируют предложения конкурентов,
+                        изучают их сильные и слабые стороны, а затем создают
+                        эффективное коммерческое предложение для вашего сайта.
+                        Это предложение будет подчеркивать конкурентные
+                        преимущества вашей компании, и мотивировать посетителя
+                        сделать заказ именно у вас.
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 a-fr">
+                <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                <div class="spoiler_body">
+                    Опытные маркетологи анализируют предложения конкурентов,
+                    изучают их сильные и слабые стороны, а затем создают
+                    эффективное коммерческое предложение для вашего сайта.
+                    Это предложение будет подчеркивать конкурентные
+                    преимущества вашей компании, и мотивировать посетителя
+                    сделать заказ именно у вас.
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1 a-fl">
+                <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                <div class="spoiler_body">
+                    Опытные маркетологи анализируют предложения конкурентов,
+                    изучают их сильные и слабые стороны, а затем создают
+                    эффективное коммерческое предложение для вашего сайта.
+                    Это предложение будет подчеркивать конкурентные
+                    преимущества вашей компании, и мотивировать посетителя
+                    сделать заказ именно у вас.
+                </div>
+            </div>
+            <div class="col-sm-5 a-fr">
+                <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                <div class="spoiler_body">
+                    Опытные маркетологи анализируют предложения конкурентов,
+                    изучают их сильные и слабые стороны, а затем создают
+                    эффективное коммерческое предложение для вашего сайта.
+                    Это предложение будет подчеркивать конкурентные
+                    преимущества вашей компании, и мотивировать посетителя
+                    сделать заказ именно у вас.
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-offset-1 a-fl">
+                <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                <div class="spoiler_body">
+                    Опытные маркетологи анализируют предложения конкурентов,
+                    изучают их сильные и слабые стороны, а затем создают
+                    эффективное коммерческое предложение для вашего сайта.
+                    Это предложение будет подчеркивать конкурентные
+                    преимущества вашей компании, и мотивировать посетителя
+                    сделать заказ именно у вас.
+                </div>
+            </div>
+            <div class="col-sm-5 a-fr">
+                <a href="" class="spoiler_links">АНАЛИЗ конкурентов</a>
+                <div class="spoiler_body">
+                    Опытные маркетологи анализируют предложения конкурентов,
+                    изучают их сильные и слабые стороны, а затем создают
+                    эффективное коммерческое предложение для вашего сайта.
+                    Это предложение будет подчеркивать конкурентные
+                    преимущества вашей компании, и мотивировать посетителя
+                    сделать заказ именно у вас.
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="footer">
+    <div class="container">
+        <h2 class="title-sect-left">
+            ОБГОВОРИТЬ ПРОЕКТ
+        </h2>
+        <small>Все великие вещи начинаются с первого шага, не стесняйтесь его совершить:</small>
+        <div class="col-md-offset-7 col-md-5 col-sm-12">
+            <div class="row">
+                <div class="well">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="inputName" placeholder="Как Вас зовут?">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="inputEmail" placeholder="Ваш e-mail">
+                            </div>
+                            <div class="form-group">
+                                <input type="tel" class="form-control" id="inputPhone"
+                                       placeholder="Номер Вашего телефона">
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" rows="3" id="textArea"
+                                          placeholder="Ваше сообщение..."></textarea>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary a-zi">отправить</button>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<?php get_footer('aw'); ?>
